@@ -18,7 +18,7 @@ body {
 
 .heading-1 {
   background-color: #fff;
-  background-image: linear-gradient(to left, #0d7d28 80%, #1a0dab );
+  background-image: linear-gradient(to left, #000000 80%, #ad0909 );
   background-size: 100%;
   -webkit-background-clip: text;
   -moz-background-clip: text;
@@ -39,7 +39,7 @@ body {
 
 .heading-3 {
   background-color: #fff;
-  background-image: linear-gradient(to left, #0d7d28 80%, #1a0dab );
+  background-image: linear-gradient(to left, #000000 80%, #ad0909 );
   background-size: 100%;
   -webkit-background-clip: text;
   -moz-background-clip: text;
@@ -76,7 +76,7 @@ body {
 
 .sub-heading .important {
   background-color: #fff;
-  background-image: linear-gradient(to left, #0d7d28 30%, #1a0dab );
+  background-image: linear-gradient(to left, #000000 30%, #ad0909 );
   background-size: 100%;
   -webkit-background-clip: text;
   -moz-background-clip: text;
