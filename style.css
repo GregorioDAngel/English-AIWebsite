@@ -76,7 +76,7 @@ body {
 
 .sub-heading .important {
   background-color: #fff;
-  background-image: linear-gradient(to left, #000000 30%, #ad0909 );
+  background-image: linear-gradient(to left, #000000 30%, #000000 );
   background-size: 100%;
   -webkit-background-clip: text;
   -moz-background-clip: text;
