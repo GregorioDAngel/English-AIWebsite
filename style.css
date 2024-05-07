@@ -18,7 +18,7 @@ body {
 
 .heading-1 {
   background-color: #fff;
-  background-image: linear-gradient(to left, #000000 80%, #ad0909 );
+  background-image: linear-gradient(to left, #000000 80%, #000000 );
   background-size: 100%;
   -webkit-background-clip: text;
   -moz-background-clip: text;
